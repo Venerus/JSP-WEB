@@ -1,0 +1,10 @@
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,1,'fes_01.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,2,'fes_02.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,3,'fes_03.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,4,'fes_04.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,5,'fes_05.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,6,'fes_06.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,7,'fes_07.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,8,'fes_08.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,9,'fes_09.jpg');
+insert into tblFestivalPicture(seq, festivalSeq, pictureAddress) values (seqFestivalPicture.nextVal,10,'fes_10.jpg');

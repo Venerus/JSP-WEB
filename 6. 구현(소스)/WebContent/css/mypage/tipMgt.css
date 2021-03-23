@@ -1,0 +1,53 @@
+@charset "UTF-8";
+table .glyphicon {
+    font-size: 5em;
+}
+
+td { 
+    width: 180px;
+    height: 50px;
+    font-size: 1.2em;
+    vertical-align: middle;
+}
+
+#picCell {
+    height: 140px;
+    vertical-align: middle;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+#titleCell, #termCell {
+    vertical-align: middle;
+}
+
+#titleCell {
+    background-color: #29B19E;
+    font-weight: bold;
+}
+
+#termCell {
+    background-color: #29B380;
+}
+
+.cell {
+    vertical-align: middle;
+}
+
+.table {
+	border : 1px solid #ddd;
+	border-radius : 10px;
+    width: 250px;
+    height: 250px;
+    float: left;
+	margin: 15px;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td {
+    border-top: 0px solid #ddd;
+}
+
+.pic {
+	width:249px;
+	height: 146px;
+}

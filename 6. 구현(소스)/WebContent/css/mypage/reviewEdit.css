@@ -1,0 +1,36 @@
+@charset "UTF-8";
+table {
+    font-size: 1.5em;
+    width: 1000px;
+    margin: 10px auto;
+}
+
+table tr {
+    border-top: 1px solid #DDD;
+}
+
+table tr:first-child { border-top : 1px solid white;}
+
+.rowCell {
+    height: 50px;
+}
+
+.titlecell {
+    width: 200px;
+}
+
+#contents {
+    width: 800px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+
+#spotScore {
+    width: 80px;
+}
+
+#btnGroup{
+    float: right;
+    margin-top: 20px;
+}

@@ -1,0 +1,10 @@
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,1,'res_01.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,2,'res_02.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,3,'res_03.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,4,'res_04.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,5,'res_05.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,6,'res_06.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,7,'res_07.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,8,'res_08.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,9,'res_09.jpg');
+insert into tblRestaurantPicture(seq, restaurantSeq, pictureAddress) values (seqRestaurantPicture.nextVal,10,'res_10.jpg');

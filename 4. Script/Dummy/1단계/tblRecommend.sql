@@ -1,0 +1,12 @@
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '고궁산책 꽃길만 걷자', '고궁의 공원을 따라 도보를 이용한 경로 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '전통의 멋과 맛', '광화문 근처 30년 이상 업소를 운영한 전통 맛집과 카페를 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '도심 속 힐링타임', '시내에서 즐길 수 있는 휴양림과 가로수길 코스 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '겨울 한정 설산 등단 하루코스', '눈덮인 서울 경치를 관람할 수 있는 안전한 북악산 등산 코스');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '인싸를 위한 하루만에 쇼핑 끝내기', '20대들에게 가장 핫한 플레이스와 주요 쇼핑몰들 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '한국에서 세계여행', '코로나 시대 국내에서 즐길 수 있는 세계 문화 테마파크 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '닭갈비 맛 투어', '지역 명물 닭갈비 유명 맛집들과 인근의 산책 코스 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '돈 없어도 괜찮아! 자전거는 어디든 갈 수 있어', '자전거 전용도로로 연결된 경치가 좋은 장소들 추천' );
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '일년 건강, 한국에서는 하루로OK', '의료관광이 핫해지는 요즘 기초검진과 추가 테라피에 좋은 코스 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, 'DO YOU KNOW K-투어?', '한류 열풍에 힘입어 유명 드라마와 영화 촬영지를 연결한 코스 추천');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '철새따라 강남가는 여행', '일정기간에만 볼 수 있는 철새와 식물들의 서식지를 소개하며 특히 사진작가들에게 추천하는 코스');
+insert into tblRecommend(seq, title, intro) values (seqRecommend.nextVal, '달이 밝아 전화했어요 투어', '겨울철 천체 관측을 위해 적합한 장소와 근처 숙박시설을 연계해 추천');

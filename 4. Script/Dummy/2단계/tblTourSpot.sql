@@ -1,0 +1,6 @@
+insert into tblTourSpot(seq, tourAreaSeq, officerSeq, category, name, tel, address, hour, latitude, longitude, contents) values (seqTourSpot.nextVal, seqTourArea, seqOfficer,'역사', '경복궁', '02-3700-3900', '서울시 종로구', '09:00-17:00', 1, 2, '600년 조선왕조의 고향');
+insert into tblTourSpot(seq, tourAreaSeq, officerSeq, category, name, tel, address, hour, latitude, longitude, contents) values (seqTourSpot.nextVal, seqTourArea, seqOfficer,'자연', '북악스카이웨이', '02-725-6602', '서울시 종로구', '00:00-24:00', 3, 4, '서울의 지붕, 도심에서 설산을 느끼기 좋은 장소') 
+insert into tblTourSpot(seq, tourAreaSeq, officerSeq, category, name, tel, address, hour, latitude, longitude, contents) values (seqTourSpot.nextVal, seqTourArea, seqOfficer,'문화', '국립중앙박물관', '02-2077-9000', '서울시 용산구', '09:00-18:00', 5, 6, '한국의 보물들이 모인 역사적 아카이브') 
+insert into tblTourSpot(seq, tourAreaSeq, officerSeq, category, name, tel, address, hour, latitude, longitude, contents) values (seqTourSpot.nextVal, seqTourArea, seqOfficer,'자연', '국립어린이과학관', '02-3668-3350', '서울시 종로구', '09:30-17:30', 7, 8, '정기적으로 천체관측 프로그램을 운영하고 있는 과학박물관(사전 예약 필요)') 
+
+select * from tblTourSpot

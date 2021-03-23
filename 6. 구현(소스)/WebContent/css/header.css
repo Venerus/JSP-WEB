@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'GmarketSansBold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#titleIcon {
+	width: 200px; 
+	cursor:pointer; 
+	font-size:2em;
+	font-family: 'GmarketSansBold';
+	font-weight:bold;
+	display: inline-block;
+}
+
+#titleIcon1 {color: #27aae1;}
+#titleIcon2 {color: #29b473;}
+#titleIcon3 {color: chocolate; font-size: .8em;}
+
+.userCircle {
+	display: inline-block;
+}
+nav {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.container {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.menubutton {
+    display: inline-block;
+    margin-left: 40px;
+}
+.menubutton:first-child {
+    margin-left: 0px;
+}
+
+.tripA {
+    font-family: 'GmarketSansBold';
+    display: inline-block;
+    min-width: 120px;
+    width: 100%;
+    min-height: 40px;
+    height: 100%;
+    /* border: solid 1px black; */
+    border-radius: 10px;
+    transition: 0.5s;
+    color: black;
+    overflow: hidden;
+    font-size: 1.25em;
+}
+
+.tripA:hover {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    
+}
+#tripready {
+    margin: 10px;
+    float: left;
+    
+
+}
+.trip {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.information {
+    border-radius: 50%;
+    width: 55px;
+    height: 55px;
+    color: black;
+    background-color: #29b473;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-right: 20px;
+    outline: 0px;
+    border: 5px;
+    font-family: 'GmarketSansBold';
+}
+.information:focus {
+    border: solid 2px rgb(189, 163, 16);
+}
+
+.line {
+    background-image: linear-gradient(to right, #29b473, #27aae1);
+    /* margin-top: 10px; */
+
+    padding: 20px 10px 20px 20px;
+    border-radius: 5px;
+}
+
+.line2 {
+    margin-top: 50px;
+    background-image: linear-gradient(to right, #29b473, #27aae1);
+    padding: 1px;
+}
+
+.bx-viewport {
+    height: 400px !important;
+}
+.dropdown-menu li a {
+    font-weight: bold;
+}
+
+.bx-wrapper {
+    border: 0px;
+}
